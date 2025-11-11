@@ -1,0 +1,3 @@
+asexplicit
+noconfirm
+pacman
