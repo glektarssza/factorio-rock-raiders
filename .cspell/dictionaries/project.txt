@@ -2,4 +2,7 @@ factorio
 flac
 glek
 glektarssza
+netrwhist
+sessionx
 tarssza
+remotehub

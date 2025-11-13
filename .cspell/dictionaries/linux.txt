@@ -1,5 +1,0 @@
-awkpath
-distro
-mapfile
-netrwhist
-sessionx

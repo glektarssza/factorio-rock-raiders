@@ -1,3 +1,0 @@
-asexplicit
-noconfirm
-pacman

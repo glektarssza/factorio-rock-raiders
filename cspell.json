@@ -6,11 +6,8 @@
     "description": "Root configuration for the project.",
     "enabled": true,
     "readonly": true,
-    "import": [
-        "./.cspell/configs/linux-dictionary.json",
-        "./.cspell/configs/arch-linux-dictionary.json",
-        "./.cspell/configs/project-dictionary.json"
-    ],
+    "dictionaries": ["en-gb"],
+    "import": ["./.cspell/configs/project-dictionary.json"],
     "useGitignore": true,
     "gitignoreRoot": ["."],
     "enableGlobDot": true,
